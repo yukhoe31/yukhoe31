@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; width=100%;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
 <div style="text-align: left;">
