@@ -6,8 +6,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
-<details>
 <div style="text-align: left;">
+    <details>
     <summary>
     <h2>🎓 Experience</h2>
     </summary>
