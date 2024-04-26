@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=180&weight='100%'&text=yukhoe31's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=180&weight=100%&text=yukhoe31's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div style="text-align: left;">
@@ -69,6 +69,6 @@
 
 <br>
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=130&section=footer&text=&fontSize=0"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=130&weight=100%&section=footer&text=&fontSize=0"/>
 </div>
 
