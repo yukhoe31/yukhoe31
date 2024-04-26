@@ -28,11 +28,15 @@
             <td>AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수강 중</td>
         </tr>
     </table>
+    </details>
 </div>
-</details>
+
 
 <div style="text-align: left;">
-    <h2>💻 Projects</h2>
+    <details>
+    <summary>
+    💻 Projects
+    </summary>
     <table>
         <tr>
             <th>기간</th>
@@ -50,6 +54,7 @@
             <td>쌍용교육센터 세미프로젝트:관광지 소개 웹사이트</td>
         </tr>
     </table>
+    </details>
 </div>
 
 
