@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align: left; width: 100%;">
-    <h2>✨ 개발자 yukhoe31입니다.✨</h2>
+    <h2>✨ 개발자 yukhoe31입니다 ✨</h2>
 </div>
 
 <div style="text-align: left; width: 100%;">
