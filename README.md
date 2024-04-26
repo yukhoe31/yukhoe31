@@ -8,12 +8,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; width:100%;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
-<div style="text-align: left; width: 100%;">
+<div style="text-align: center; width: 100%;">
     <details>
     <summary>
     <h2>💻 Projects</h2>
     </summary>
-    <table style="text-align: center; width: 100%;">
+    <table style="width: 100%;">
         <tr>
             <th style="width: 33%;">기간</th>
             <th style="width: 33%;">내용</th>
@@ -32,6 +32,7 @@
     </table>
     </details>
 </div>
+
 
 <div style="text-align: left; width: 100%;">
     <details>
