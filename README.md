@@ -7,8 +7,8 @@
 </div>
 
 <div style="text-align: left;">
-    <details style="text-align: center;">
-    <summary style="text-align: center;">
+    <details>
+    <summary>
     <h2>💻 Projects</h2>
     </summary>
     <table >
@@ -36,9 +36,9 @@
 <div style="text-align: left;">
     <details>
     <summary>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: center;">🛠️ Tech Stacks</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
     </summary>
-    <div style="margin: ; text-align: left; style="text-align: center;">
+    <div style="margin: ; text-align: left;">
         <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
