@@ -13,21 +13,21 @@
     <summary>
     <h2>💻 Projects</h2>
     </summary>
-    <table style="margin: 0 auto; width: 100%;">
+    <table style="text-align: center; margin: 0 auto; width: 100%;">
         <tr>
-            <th style="text-align: center; width: 33%;">기간</th>
-            <th style="text-align: center; width: 33%;">내용</th>
-            <th style="text-align: center; width: 33%;">설명</th>
+            <th style="width: 33%;">기간</th>
+            <th style="width: 33%;">내용</th>
+            <th style="width: 33%;">설명</th>
         </tr>
         <tr>
-            <td style="text-align: center; width: 33%;">2023.03 ~ 2023.08</td>
-            <td style="text-align: center; width: 33%;"><a href="https://github.com/yukhoe31/app_sandwich" style="text-align: center; width: 33%;">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
-            <td style="text-align: center; width: 33%;" style="text-align: center; width: 33%;">졸업프로젝트: 샌드위치 조합 추천 애플리케이션</td>
+            <td style="width: 33%;">2023.03 ~ 2023.08</td>
+            <td style="width: 33%;"><a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
+            <td style="width: 33%;">졸업프로젝트: 샌드위치 조합 추천 애플리케이션</td>
         </tr>
         <tr>
-            <td style="text-align: center; width: 33%;">2024.04 ~ 2024.04</td>
-            <td style="text-align: center; width: 33%;"><a href="https://github.com/JunbroGit/SemiProject" style="text-align: center; width: 33%;">KyotoInside</a></td>
-            <td style="text-align: center; width: 33%;" style="text-align: center; width: 33%;">쌍용교육센터 세미프로젝트: 관광지 소개 웹사이트</td>
+            <td style="width: 33%;">2024.04 ~ 2024.04</td>
+            <td style="width: 33%;"><a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a></td>
+            <td style="width: 33%;">쌍용교육센터 세미프로젝트: 관광지 소개 웹사이트</td>
         </tr>
     </table>
     </details>
@@ -70,7 +70,4 @@
 <br>
 <div style="text-align: center; width: 100%;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=130&section=footer&text=&fontSize=0" style="width: 100%;"/>
-</div>
-
-
 </div>
