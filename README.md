@@ -91,5 +91,12 @@
     </div>
 </div>
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Contributions</h2>
+    <div style="text-align: left;">
         ![](./profile-3d-contrib/profile-gitblock.svg)
+    </div>
+</div>
+
+
 
