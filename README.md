@@ -8,16 +8,32 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; width:100%;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
-<div style="text-align: left; width: 100%;">
+<div align="center">
     <details>
     <summary>
     <h2>💻 Projects</h2>
     </summary>
 
-| 기간 | 내용 | 설명 |
-|:-:|:-:|:-:|
-|2023.03 ~ 2023.08|<a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a>|졸업프로젝트: 샌드위치 조합 추천 애플리케이션|
-|2024.04 ~ 2024.04|<a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a>|쌍용교육센터 세미프로젝트 : 관광지 소개 웹사이트|
+<table style="text-align: center; width: 100%; background-color: lavenderblush; border-collapse: collapse;">
+    <tr style="background-color: #ffffff;">
+        <th style="border: 1px solid #d8dee4;">기간</th>
+        <th style="border: 1px solid #d8dee4;">내용</th>
+        <th style="border: 1px solid #d8dee4;">설명</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #d8dee4;">2023.03 ~ 2023.08</td>
+        <td style="border: 1px solid #d8dee4;"><a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
+        <td style="border: 1px solid #d8dee4;">졸업프로젝트: 샌드위치 조합 추천 애플리케이션</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #d8dee4;">2024.04 ~ 2024.04</td>
+        <td style="border: 1px solid #d8dee4;"><a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a></td>
+        <td style="border: 1px solid #d8dee4;">쌍용교육센터 세미프로젝트 : 관광지 소개 웹사이트</td>
+    </tr>
+</table>
+   
+</div>
+
 
    
 </div>
