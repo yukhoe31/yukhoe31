@@ -73,16 +73,6 @@
     </div>
 </div>
 
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📧 Contact me</h2>
-    <div style="text-align: left;">
-        <a href="mailto:yukhoe31@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yukhoe31@gmail.com">
-        </a>
-    </div>
-</div>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Contributions</h2>
 </div>
