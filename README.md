@@ -13,7 +13,7 @@
     <summary>
     <h2>💻 Projects</h2>
     </summary>
-    <table >
+    <table align=center>
         <tr>
             <th>기간</th>
             <th>내용</th>
