@@ -33,8 +33,6 @@
     </details>
 </div>
 
-
-
 <div style="text-align: left; width: 100%;">
     <details>
     <summary>
