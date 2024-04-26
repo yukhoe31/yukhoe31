@@ -9,16 +9,24 @@
 </div>
 
 <div style="text-align: center; width: 100%;">
-    <details>
-    <summary>
     <h2>💻 Projects</h2>
-    </summary>
-    | 기간          | 내용                                                    | 설명                                            |
-    | ------------- | ------------------------------------------------------- | ----------------------------------------------- |
-    | 2023.03 ~ 2023.08 | [써브웨이 샌드위치 맞춤형 추천 서비스](https://github.com/yukhoe31/app_sandwich) | 졸업프로젝트: 샌드위치 조합 추천 애플리케이션   |
-    | 2024.04 ~ 2024.04 | [KyotoInside](https://github.com/JunbroGit/SemiProject) | 쌍용교육센터 세미프로젝트: 관광지 소개 웹사이트 |
-
-    </details>
+    <table style="width: 100%; margin: 0 auto;">
+        <tr>
+            <th style="width: 33%;"><center>기간</center></th>
+            <th style="width: 33%;"><center>내용</center></th>
+            <th style="width: 33%;"><center>설명</center></th>
+        </tr>
+        <tr>
+            <td style="width: 33%;">2023.03 ~ 2023.08</td>
+            <td style="width: 33%;"><a href="https://github.com/yukhoe31/app_sandwich"><center>써브웨이 샌드위치 맞춤형 추천 서비스</center></a></td>
+            <td style="width: 33%;"><center>졸업프로젝트 : 샌드위치 조합 추천 애플리케이션</center></td>
+        </tr>
+        <tr>
+            <td style="width: 33%;">2024.04 ~ 2024.04</td>
+            <td style="width: 33%;"><a href="https://github.com/JunbroGit/SemiProject"><center>KyotoInside</center></a></td>
+            <td style="width: 33%;"><center>쌍용교육센터 세미프로젝트: 관광지 소개 웹사이트</center></td>
+        </tr>
+    </table>
 </div>
 
 
