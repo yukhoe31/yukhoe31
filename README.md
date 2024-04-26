@@ -1,4 +1,4 @@
-<div align= "center">
+
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:82de8d,100:bc7dde&height=180&text=Yukhoe31's%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
@@ -35,5 +35,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yukhoe31&bg_color=180,8694ca,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukhoe31&layout=compact&bg_color=180,8694ca,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
-    </div>
+
     
