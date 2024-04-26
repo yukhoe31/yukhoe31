@@ -2,16 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=180&text=yukhoe31's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: center;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <details>
     <summary>
-    <h2>💻 Projects</h2>
+    <h2 style="text-align: center;">💻 Projects</h2>
     </summary>
-    <table>
+    <table style="text-align: center;">
         <tr>
             <th>기간</th>
             <th>내용</th>
@@ -33,12 +33,12 @@
 
 
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <details>
     <summary>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: center;">🛠️ Tech Stacks</h2>
     </summary>
-    <div style="margin: ; text-align: left;">
+    <div style="margin: ; text-align: left; style="text-align: center;">
         <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
@@ -56,10 +56,10 @@
     </details>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <details>
     <summary>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Contributions</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; style="text-align: center;">🎄 Contributions</h2>
     </summary>
 
 
