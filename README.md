@@ -6,8 +6,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
+<details>
 <div style="text-align: left;">
+    <summary>
     <h2>🎓 Experience</h2>
+    </summary>
     <table>
         <tr>
             <th>소속 및 단체</th>
@@ -26,6 +29,7 @@
         </tr>
     </table>
 </div>
+</details>
 
 <div style="text-align: left;">
     <h2>💻 Projects</h2>
