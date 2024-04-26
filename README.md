@@ -13,7 +13,7 @@
     <summary>
     <h2>💻 Projects</h2>
     </summary>
-    <table style="text-align: center; margin: 0 auto; width: 100%;">
+    <table style="text-align: center; width: 100%;">
         <tr>
             <th style="width: 33%;">기간</th>
             <th style="width: 33%;">내용</th>
@@ -22,7 +22,7 @@
         <tr>
             <td style="width: 33%;">2023.03 ~ 2023.08</td>
             <td style="width: 33%;"><a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
-            <td style="width: 33%;">졸업프로젝트: 샌드위치 조합 추천 애플리케이션</td>
+            <td style="width: 33%;">졸업프로젝트 : 샌드위치 조합 추천 애플리케이션</td>
         </tr>
         <tr>
             <td style="width: 33%;">2024.04 ~ 2024.04</td>
