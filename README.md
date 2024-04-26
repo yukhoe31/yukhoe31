@@ -18,7 +18,7 @@
     | 기간 | 내용 | 설명 |
     | --- | --- | ---|
     | 2023.08 ~ 2023.09| <a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a> |  졸업프로젝트  |
-    | 2023.11 ~ 2023.12| <a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a> | 쌍용교육센터 세미프로젝트 |
+    | 2023.11 ~ 2023.12| <a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a> | 쌍용교육센터 세미프로젝트 |**
 </div>
 
 <div style="text-align: left;">
