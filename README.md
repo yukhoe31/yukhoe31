@@ -8,6 +8,7 @@
 
 <div style="text-align: left;">
     <h2>🎓 Experience</h2>
+    <summary>
     <table>
         <tr>
             <th>소속 및 단체</th>
@@ -25,10 +26,12 @@
             <td>AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수강 중</td>
         </tr>
     </table>
+    </summary>
 </div>
 
 <div style="text-align: left;">
     <h2>💻 Projects</h2>
+    <summary>
     <table>
         <tr>
             <th>기간</th>
@@ -46,12 +49,14 @@
             <td>쌍용교육센터 세미프로젝트:관광지 소개 웹사이트</td>
         </tr>
     </table>
+    </summary>
 </div>
 
 
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
+    <summary>
     <div style="margin: ; text-align: left;">
         <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
@@ -71,12 +76,14 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </div>
+    </summary>
 </div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Contributions</h2>
 </div>
-
+<summary>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+</summary>
 
 
