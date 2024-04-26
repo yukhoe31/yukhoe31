@@ -4,6 +4,21 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
+
+    <h2>🎓 Experience </h2>
+
+    |소속 및 단체|활동 기간|내용|
+    |---|---|---|
+    |경희대학교|2020.03 ~ 2023.08 | 경희대학교 컴퓨터공학과 졸업 |
+    |쌍용교육센터|2024.01 ~ | AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수강 중 |
+
+    <br><br>
+    <h2>💻 Projects</h3>
+
+    | 기간 | 내용 | 설명 |
+    | --- | --- | ---|
+    | 2023.08 ~ 2023.09| <a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a> |  졸업프로젝트  |
+    | 2023.11 ~ 2023.12| <a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a> | 쌍용교육센터 세미프로젝트 |
 </div>
 
 <div style="text-align: left;">
