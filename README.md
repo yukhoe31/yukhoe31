@@ -90,3 +90,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukhoe31&layout=compact&bg_color=180,8694ca,00000000&title_color=ffffff&text_color=ffffff" />
     </div>
 </div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Git Contributions</h2>
+    <div style="text-align: left;">
+        ![](./profile-3d-contrib/profile-gitblock.svg)
+    </div>
+</div>
