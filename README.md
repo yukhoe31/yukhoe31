@@ -35,7 +35,7 @@
 <div style="text-align: left;">
     <details>
     <summary>
-    💻 Projects
+    <h2>💻 Projects</h2>
     </summary>
     <table>
         <tr>
@@ -58,9 +58,11 @@
 </div>
 
 
-
 <div style="text-align: left;">
+    <details>
+    <summary>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
+    </summary>
     <div style="margin: ; text-align: left;">
         <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
@@ -76,6 +78,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
     </div>
+    </details>
 </div>
 
 <div style="text-align: left;">
