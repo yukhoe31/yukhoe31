@@ -11,7 +11,7 @@
 <div style="text-align: left; width: 100%;">
     <details>
     <summary>
-    <h2>💻 Projects</h2>
+    <h2>💻 Projects 💻◀</h2>
     </summary>
 
 | 기간 | 내용 | 설명 |
