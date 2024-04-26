@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; width=100%;">🐯 개발자 yukhoe31입니다.</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; width:100%;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
 <div style="text-align: left;">
@@ -13,7 +13,7 @@
     <summary>
     <h2>💻 Projects</h2>
     </summary>
-    <table style="text-align: center;">
+    <table style="text-align: center; margin: 0 auto;">
         <tr>
             <th>기간</th>
             <th>내용</th>
@@ -22,12 +22,12 @@
         <tr>
             <td>2023.03 ~ 2023.08</td>
             <td><a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
-            <td>졸업프로젝트:샌드위치 조합 추천 애플리케이션</td>
+            <td>졸업프로젝트: 샌드위치 조합 추천 애플리케이션</td>
         </tr>
         <tr>
             <td>2024.04 ~ 2024.04</td>
             <td><a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a></td>
-            <td>쌍용교육센터 세미프로젝트:관광지 소개 웹사이트</td>
+            <td>쌍용교육센터 세미프로젝트: 관광지 소개 웹사이트</td>
         </tr>
     </table>
     </details>
@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
-        <br>	
+        <br>    
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
@@ -61,7 +61,7 @@
 <div style="text-align: left;">
     <details>
     <summary>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; style="text-align: center;">🎄 Contributions</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: center;">🎄 Contributions</h2>
     </summary>
 
 
