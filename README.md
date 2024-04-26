@@ -82,10 +82,14 @@
 </div>
 
 <div style="text-align: left;">
+    <details>
+    <summary>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎄 Contributions</h2>
-</div>
+    </summary>
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+</details>
+</div>
 
 
