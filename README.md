@@ -37,18 +37,13 @@
         </tr>
         <tr>
             <td>2023.08 ~ 2023.09</td>
-            <td><a href="https://github.com/yukhoe31/app_sandwich">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
-            <td>졸업프로젝트</td>
+            <td><a href="https://github.com/yukhoe31/app_sandwich" target="_blank">써브웨이 샌드위치 맞춤형 추천 서비스</a></td>
+            <td>졸업프로젝트:샌드위치 조합 추천 애플리케이션</td>
         </tr>
         <tr>
             <td>2023.11 ~ 2023.12</td>
-            <td><a href="https://github.com/JunbroGit/SemiProject">KyotoInside</a></td>
-            <td>쌍용교육센터 세미프로젝트</td>
-        </tr>
-        <tr>
-            <td>2024.04 ~</td>
-            <td>Your New Project Name</td>
-            <td>Brief Description of your new project</td>
+            <td><a href="https://github.com/JunbroGit/SemiProject" target="_blank">KyotoInside</a></td>
+            <td>쌍용교육센터 세미프로젝트:관광지 소개 웹사이트</td>
         </tr>
     </table>
 </div>
@@ -79,7 +74,7 @@
 
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me</h2>
     <div style="text-align: left;">
         <a href="mailto:yukhoe31@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yukhoe31@gmail.com">
