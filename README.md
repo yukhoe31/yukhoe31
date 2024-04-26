@@ -9,32 +9,6 @@
 <div style="text-align: left;">
     <details>
     <summary>
-    <h2>🎓 Experience</h2>
-    </summary>
-    <table>
-        <tr>
-            <th>소속 및 단체</th>
-            <th>활동 기간</th>
-            <th>내용</th>
-        </tr>
-        <tr>
-            <td>경희대학교</td>
-            <td>2020.03 ~ 2023.08</td>
-            <td>경희대학교 컴퓨터공학과 졸업</td>
-        </tr>
-        <tr>
-            <td>쌍용교육센터</td>
-            <td>2024.01 ~</td>
-            <td>AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수강 중</td>
-        </tr>
-    </table>
-    </details>
-</div>
-
-
-<div style="text-align: left;">
-    <details>
-    <summary>
     <h2>💻 Projects</h2>
     </summary>
     <table>
@@ -56,6 +30,7 @@
     </table>
     </details>
 </div>
+
 
 
 <div style="text-align: left;">
