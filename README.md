@@ -3,15 +3,15 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: center;">🐯 개발자 yukhoe31입니다.</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐯 개발자 yukhoe31입니다.</h2>
 </div>
 
 <div style="text-align: left;">
-    <details>
-    <summary>
-    <h2 style="text-align: center;">💻 Projects</h2>
+    <details style="text-align: center;">
+    <summary style="text-align: center;">
+    <h2>💻 Projects</h2>
     </summary>
-    <table style="text-align: center;">
+    <table >
         <tr>
             <th>기간</th>
             <th>내용</th>
