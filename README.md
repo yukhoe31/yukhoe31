@@ -8,12 +8,6 @@
     <h2>✨ 개발자 yukhoe31입니다 ✨</h2>
 </div>
 
-<br>
-
- ![Yukhoe31's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukhoe31&theme=ambient_gradient&show_icons=true)
-
-<br>
-
 <div style="text-align: left; width: 100%;">
     <details>
     <summary>
