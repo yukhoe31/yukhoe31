@@ -9,9 +9,9 @@
 </div>
 
 <br>
-<div style="text-align: left; width: 100%;">
- ![Minyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukhoe31&show_icons=true&theme=ambient_gradient)
-</div>
+
+ ![Yukhoe31's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukhoe31&theme=ambient_gradient&show_icons=true)
+
 <br>
 
 <div style="text-align: left; width: 100%;">
