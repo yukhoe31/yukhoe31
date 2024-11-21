@@ -10,17 +10,7 @@
 
 <div style="text-align: left; width: 100%;">
     <details>
-    <summary style=" display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF; /* Button background color */
-    color: white; /* Text color */
-    border-radius: 5px; /* Rounded corners */
-    border: none; /* Remove border */
-    font-size: 1.2rem; /* Font size */
-    font-weight: bold;
-    cursor: pointer; /* Pointer cursor on hover */
-    text-align: center;
-    transition: background-color 0.3s ease;">
+    <summary>
     <h2>💻 Projects 💻</h2>
     </summary>
 
@@ -76,13 +66,4 @@
 </div>
 
 
-<style>
-/* Remove the default toggle marker */
-summary {
-    list-style: none;
-}
-
-summary::-webkit-details-marker {
-    display: none;
-}
 
