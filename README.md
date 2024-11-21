@@ -10,7 +10,17 @@
 
 <div style="text-align: left; width: 100%;">
     <details>
-    <summary class="custom-button">
+    <summary style=" display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF; /* Button background color */
+    color: white; /* Text color */
+    border-radius: 5px; /* Rounded corners */
+    border: none; /* Remove border */
+    font-size: 1.2rem; /* Font size */
+    font-weight: bold;
+    cursor: pointer; /* Pointer cursor on hover */
+    text-align: center;
+    transition: background-color 0.3s ease;">
     <h2>💻 Projects 💻</h2>
     </summary>
 
@@ -76,23 +86,3 @@ summary::-webkit-details-marker {
     display: none;
 }
 
-/* Style the summary element as a button */
-.custom-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF; /* Button background color */
-    color: white; /* Text color */
-    border-radius: 5px; /* Rounded corners */
-    border: none; /* Remove border */
-    font-size: 1.2rem; /* Font size */
-    font-weight: bold;
-    cursor: pointer; /* Pointer cursor on hover */
-    text-align: center;
-    transition: background-color 0.3s ease;
-}
-
-/* Add hover effect for better interactivity */
-.custom-button:hover {
-    background-color: #0056b3; /* Darker shade on hover */
-}
-</style>
